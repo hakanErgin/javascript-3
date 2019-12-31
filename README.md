@@ -1,3 +1,7 @@
+This repo is for studying purposes. 
+[homework repo](https://github.com/hakanErgin/javascript-3-homework)
+
+
 # JavaScript 3
 
 Hi there! Welcome to Javascript 3, get ready to have lot of fun 🥳
