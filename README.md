@@ -18,9 +18,12 @@ Hi there! Welcome to Javascript 3, get ready to have lot of fun 🥳
 
 ### Week 2
 
+[Readme week 2](https://github.com/be-hacking-hyf/javascript-3/blob/master/week-2.md)
 
 
 ### Week 3
+
+[Readme week 3](https://github.com/be-hacking-hyf/javascript-3/blob/master/week-3.md)
 
 
 [TOP](#javascript-3)
