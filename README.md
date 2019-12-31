@@ -1,4 +1,4 @@
-This repo is for studying purposes. 
+_This repo is for studying purposes._
 [homework repo](https://github.com/hakanErgin/javascript-3-homework)
 
 
